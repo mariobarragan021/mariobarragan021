@@ -35,6 +35,6 @@ Passionate for Data Analyst, Data Visualization and Optimization making the tran
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
- <img decoding="async" src="https://https://img.shields.io/badge/tableau-gray?style=for-the-badge&logo=tableau&logoColor=gray&logoSize=auto/>
-  </a>
+ <img decoding="async" src="https://img.shields.io/badge/tableau-gray?style=for-the-badge&logo=tableau&logoColor=gray&logoSize=auto/>
+   
 </div>
