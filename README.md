@@ -8,10 +8,17 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hi there 👋
+---
+ <div id="header" align="left">
 
-I'm a passionate for Data Analysis  using Python, SQL, Excel, Tableau and Power BI, i currently graduated from Tripleten Bootcamp as Data Analyst,
-performing several projects to ensure and captivate the abilities of a next level Data Analyst.
+### :man_technologist: About me :
 
-You can find my personal projects in this Profile.
+Passionate for Data Analyst, Data Visualization and Optimization making the transition to Data Analyst <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :airplane: Currently Working in an Aerospace company but looking for new challenges as a Data Analyst.:computer:
+* :trophy: Actually ended my bootcamp course at Tripleten for Data Analyst in which I perform abilities with Python :tada:, SQL :sparkles: and Tableau :fireworks:
+* :student: Currently studying My Master in Big Data Science for Business
+* :running_man: Always looking for new ways to improve and learn.
+* :mailbox: ¿Want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Mario-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariobarragan021/)
+  
 
