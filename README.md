@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-barragan021/)
 
-<img src="https://www.canva.com/design/DAGwk52_Wus/uKrEeEsOPned3sjrEiqRdA/edit?utm_content=DAGwk52_Wus&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.png">
+<img src="/https://www.canva.com/design/DAGwk52_Wus/uKrEeEsOPned3sjrEiqRdA/edit?utm_content=DAGwk52_Wus&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mariobarragan021.mariobarragan021&color=00cf00" alt=""/>
