@@ -35,7 +35,7 @@ Passionate for Data Analyst, Data Visualization and Optimization making the tran
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Tableau-gray?style=for-the-badge&logo=Power-BI&logoColor=white" alt="tableau"/>
-[</div>
+</div>
 
 ### 💻: Social :
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-barragan021/)
