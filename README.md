@@ -1,6 +1,3 @@
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-barragan021/)
-
-<img src="/https://www.canva.com/design/DAGwk52_Wus/uKrEeEsOPned3sjrEiqRdA/edit?utm_content=DAGwk52_Wus&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mariobarragan021.mariobarragan021&color=00cf00" alt=""/>
@@ -38,4 +35,7 @@ Passionate for Data Analyst, Data Visualization and Optimization making the tran
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Tableau-gray?style=for-the-badge&logo=Power-BI&logoColor=white" alt="tableau"/>
-</div>
+[</div>
+
+### 💻: Social :
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-barragan021/)
